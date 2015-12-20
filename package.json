@@ -1,0 +1,19 @@
+{
+  "name": "gulpsample",
+  "version": "1.0.0",
+  "description": "golang sever build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "node_modules/.bin/gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sequence": "^0.4.1",
+    "gulp-sync": "^0.1.4",
+    "gulp-util": "^3.0.6"
+  }
+}
